@@ -1,0 +1,1765 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-item.bk :hover{
+    background-color: rgb(254,227,219);
+    color: rgb(238, 75, 43);
+    border-radius: 12px;
+}
+.imagesize{
+    height: 14px;
+    padding-bottom: 4px;
+}
+.nav-item :hover{
+    background-color: rgb(254,227,219);
+    color: rgb(238, 75, 43);
+    border-radius: 12px;
+}
+.Icon{
+    width: 100%;
+    height: 517px;
+}
+.nav-link{
+    color: white;
+}
+.Nav-text{
+    margin-top: -5px;
+    font-size: 13px;
+    color: white;
+    padding-left: 30px;
+}
+.navbar-brand{
+    padding-left: 30px;
+    font-size: 30px;
+}
+.Img{
+    position: relative;
+}
+.shapes{
+    position: absolute;
+    bottom: 180px;
+    left: -150px;
+    font-size: 12px;
+}
+.rectangle-4{
+    background-color: white;
+    position: absolute;
+    bottom: 5px;
+    left: 100px;
+    height: 340px;
+    width: 325px;
+    border: 1px solid red;
+    border-radius: 8px;
+}
+.anotherb{
+    position: absolute;
+    left: 101px;
+    bottom: 346px;
+    font-size: 25px;
+}
+.fLIGHT{
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+    width: 115px;
+    border: 1px solid red;
+}
+.HOLIDAYS{
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    width: 105px;
+    border: 1px solid red;
+}
+.CARS{
+    color:white;
+    background-color: black;
+    border-radius: 8px;
+    width: 85px;
+    border: 1px solid red;
+}
+
+.rectangle-5{
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+}
+.box{
+    margin-top: 15px;
+    padding-left: 20px;
+}
+.way{
+    padding-top: 5px;
+    font-size: 16px;
+}
+.increment{
+    padding-left: 20px;
+}
+.number{
+    padding-left: 20px;
+}
+.decrement{
+    padding-left: 20px;
+}
+.rectangle-6{
+    padding-top: 5px;
+    padding-left: 10px;
+    margin-left: 20px;
+    width: 215px;
+    height: 65px;
+    border: 2px solid black;
+    font-size: 16px;
+}
+.rectangle-7{
+    color: rgb(238, 75, 43);
+    padding-left: 10px;
+    font-size: 16px;
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 215px;
+    height: 65px;
+    border: 2px solid black;
+}
+.fa-calendar{
+    padding-right: 10px;
+}
+.growth{
+    margin-left: 20px;
+    margin-top: 10px;
+    line-height: 1;
+    font-size: 16px;
+}
+.btn-2{
+    margin-left: 20px;
+    color: white;
+    background-color: rgb(238, 75, 43);
+    width: 290px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    height: 30px;
+}
+button {
+    border: none;
+    background-color: white;
+    color: rgb(238, 75, 43);
+}
+.circle{
+    position: absolute;
+    border: 4px solid white;
+    background-color: rgb(238, 75, 43);
+    height: 130px;
+    width: 160px;
+    border-radius: 50%;
+    color: white;
+    font-size: 14px;
+    margin-top: -90px;
+    margin-left: 1130px;
+    z-index: 2;
+    padding-top: 10px;
+    padding-left: 38px;
+}
+.rectangle-2{
+    width: 208px;
+    height: 154.7px;
+    font-size: 11px;
+    color: white;
+    border-radius: 12px;
+    background-color: rgb(238, 75, 43);
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 10px;
+    border: 4px solid white;
+    position: absolute;
+    margin-left: 1110px;
+    z-index: 1;
+}
+.right-arrow{
+    font-size: 26px;
+    margin-top: 35px;
+}
+.right-arrow a{
+    color: rgb(238, 75, 43);
+    text-decoration: none;
+}
+.Text-1{
+    font-size: 18px;
+}
+.Text-2{
+    font-size: 14px;
+}
+.btn-1{
+    color: white;
+    background-color: rgb(238, 75, 43);
+}
+.content1{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.flying{
+    position: absolute;
+    bottom: 90px;
+    left: 20px;
+    font-size: 26px;
+    line-height: 1;
+  }
+.more{
+    position: absolute;
+    bottom: 15px;
+    left: 20px;
+    font-size: 26px;
+}
+.more a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.travel{
+    position: absolute;
+    bottom: 100px;
+    left: 20px;
+    font-size: 26px; 
+}
+.signup{
+    position: absolute;
+    bottom: 90px;
+    left: 20px;
+    font-size: 26px; 
+    text-align: left; 
+    line-height: 1;
+}
+.colour{
+    color: #132D40;
+    font-size: 38px;
+}
+.anotherbooking{
+    margin-top: 35px;
+    color: #132D40;
+}
+.Part1{
+    font-size: 38px;
+}
+.Europe{
+    color: #132D40;
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.Connect{
+    color: #132D40;
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.content2{
+   padding: 60px;
+}
+.card{
+    border: 2px solid red;
+}
+.Body{
+    color: #132D40;
+    font-size: 20px;
+}
+.card-title{
+    text-align: center;
+    margin-top: -10px;
+}
+.card-body{
+    border: 1px solid red;
+}
+.card-text{
+    font-size: 20px;
+    line-height: 1;
+}
+.layer{
+    margin-top: 50px;
+}
+.rectangle-1{
+    height: 50px;
+    width: 100px;
+    background-color: #555;
+}
+.head1{
+    color: #3D3939;
+    font-size: 26px;
+    margin-top: 80px;
+}
+.rectangle{
+    width: 200px;
+    height: 187px;
+    background-color: #595959;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+.help-tips{
+    text-align: left;
+    padding-left: 10px;
+    color: white;
+}
+.head2{
+    font-size: 26px;
+    color: rgb(238, 75, 43);
+    margin-top: 40px;
+    padding-left: 30px;
+}
+.Brag{
+    font-size: 16px;
+    color: #304758;
+}
+.Brag2{
+    font-size: 16px;
+    color: #304758;
+    margin-top: 40px;
+}
+.Brag3{
+    font-size: 16px;
+    color: #304758;
+    margin-top: 40px;
+}
+.takenote{
+    color: rgb(238, 75, 43);
+}
+.footer1{
+    background: #c0d8e9;
+    margin-top: 40px;
+}
+.connect{
+    font-size: 26px;
+    color: #3D3939;
+}
+.head3{
+    font-size: 26px;
+    color: #3D3939;
+}
+.head4{
+    margin-top: 20px;
+    font-size: 26px;
+    color: #3D3939;
+}
+.head4 li{
+    list-style: none;
+}
+.footer1{
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+}
+.social-media{
+    color: rgb(238, 75, 43);
+    font-size: 46px;
+}
+.btn-a{
+    margin-top: 80px;
+    width: 262px;
+}
+
+/* Media query for all screen sizes */
+@media screen and (max-width:1200px){
+    .rectangle-4{
+        background-color: white;
+        position: absolute;
+        bottom: 5px;
+        left: 100px;
+        height: 340px;
+        width: 325px;
+        border: 1px solid red;
+        border-radius: 8px;
+    }
+    .anotherb{
+        position: absolute;
+        left: 101px;
+        bottom: 346px;
+        font-size: 25px;
+    }
+    .shapes{
+        position: relative;
+        bottom: 170px;
+        right: 250px;
+        font-size: 12px;
+    }
+    .Text-2{
+        font-size: 12px;
+    }
+    .Europe{
+        font-size: 17px;
+        line-height: 1;
+        font-weight: 400;
+        padding-top: 5px;
+    }
+    .Connect{
+        font-size: 17px;
+        line-height: 1;
+        font-weight: 400;
+        padding-top: 5px;
+    }
+    .card-text{
+        font-size: 18px;
+        line-height: 1;
+    }
+    .rectangle{
+        width: 165px;
+        height: 180px;
+        padding: 10px;
+        font-size: 14px;
+    }
+    .Brag{
+        font-size: 13px;
+    }
+    .Brag2{
+        font-size: 13px;
+        margin-top: 35px;
+    }
+    .Brag3{
+        font-size: 13px;
+        margin-top: 35px;
+    }
+    .head4{
+        font-size: 20px;
+    }
+    .btn-a{
+        margin-top: 120px;
+    }  
+}
+@media screen and (max-width:1200px){
+    .shapes{
+        bottom: 170px;
+        right: 400px;
+        font-size: 12px;
+    }
+    .Europe{
+        font-size: 15px;
+        line-height: 1;
+        font-weight: 400;
+        padding-top: 5px;
+    }
+    .Connect{
+        font-size: 15px;
+        line-height: 1;
+        font-weight: 400;
+        padding-top: 5px;
+    }
+    .card-text{
+        font-size: 18px;
+        line-height: 1;
+    }
+    .rectangle{
+    width: 160px;
+    height: 187px;
+    font-size: 16px;
+    }
+    .shapes{
+    position: absolute;
+    bottom: 170px;
+    right: 4000px;
+    font-size: 12px;
+    }
+    .nav-link{
+        font-size: 12px;
+    }
+    .circle{
+        font-size: 13px;
+    }
+    .rectangle-2{
+        font-size: 11px;
+    }
+    .Text-1{
+        font-size: 16px;
+    }
+    .Text-2{
+        font-size: 12px;
+    }
+    .Brag{
+        font-size: 13px;
+    }
+    .Brag2{
+        font-size: 13px;
+        margin-top: 35px;
+    }
+    .Brag3{
+        font-size: 13px;
+        margin-top: 35px;
+    }
+    .head4{
+        font-size: 20px;
+    }
+    .btn-a{
+        margin-top: 80px;
+    }
+    .Part1{
+        margin-top: -10px;
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:1182px){
+    .shapes{
+        bottom: 170px;
+        left: -250px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:1080px){
+    .shapes{
+        bottom: 170px;
+        left: -350px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:1000px){
+    .nav-link{
+        font-size: 11px;
+    }
+}
+@media (min-width: 991px) and (max-width: 992px){
+    .flying{
+        position: absolute;
+        bottom: 60px;
+        left: 10px;
+        font-size: 22px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 10px;
+        left: 15px;
+        font-size: 22px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 15px;
+        font-size: 22px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 60px;
+        left: 15px;
+        font-size: 22px; 
+        text-align: left; 
+        line-height: 1;
+        }
+        .Europe{
+            font-size: 14px;
+            line-height: 1;
+            font-weight: 400;
+            padding-top: 3px;
+        }
+        .Connect{
+            font-size: 14px;
+            line-height: 1;
+            font-weight: 400;
+            padding-top: 3px;
+        }
+        .btn-a{
+            margin-top: 20px;
+        }
+        .Part1{
+            margin-top: -40px;
+        }
+        .content2{
+            margin-left: -20px;
+            font-size: small;
+        }
+        .Brag{
+            font-size: 10px;
+        }
+        .Brag2{
+            font-size: 10px;
+            margin-top: 10px;
+        }
+        .Brag3{
+            font-size: 10px;
+            margin-top: 10px;
+        }
+        .rectangle{
+        width: 120px;
+        height: 157px;
+        font-size: 12px;
+        }
+}
+@media screen and (max-width:990px){
+    .flying{
+        position: absolute;
+        bottom: 60px;
+        left: 10px;
+        font-size: 22px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 10px;
+        left: 15px;
+        font-size: 22px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 15px;
+        font-size: 22px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 60px;
+        left: 15px;
+        font-size: 22px; 
+        text-align: left; 
+        line-height: 1;
+        }
+    .Europe{
+        font-size: 15px;
+        line-height: 1;
+        font-weight: 400;
+        padding-top: 3px;
+    }
+    .Connect{
+        font-size: 15px;
+        line-height: 1;
+        font-weight: 400;
+        padding-top: 3px;
+    }
+    .content2{
+        padding: 0px;
+        padding-left: 30px;
+        padding-top: 40px;
+    }
+    .btn-a{
+        margin-top: 30px;
+    }
+    .card-text{
+        font-size: 12px;
+    }
+    .card-title{
+        font-size: small;
+    }
+    .rectangle{
+        width: 120px;
+        height: 157px;
+        font-size: 12px;
+    }
+    .down{
+        font-size: 13px;
+    }
+    .Brag{
+        font-size: 10px;
+    }
+    .Brag2{
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .Brag3{
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .head2{
+        font-size: 23px;
+        padding-left: 5px;
+    }
+    .Connect{
+        font-size: 12px;
+        padding-top: 3px;
+    }
+    .social-media{
+        font-size: 30px;
+    }
+    .fa-envelope{
+        margin-left: 5px;
+    }
+    .fa-facebook{
+        margin-left: -15px;
+    }
+    .fa-youtube{
+        margin-left: -20px;
+    }
+    .fa-instagram{
+        margin-left: -25px;
+    }
+    .head3{
+        font-size: 19px;
+    }
+    .head4{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:990px){
+    .shapes{
+        bottom: 170px;
+        left: -400px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:928px){
+    .shapes{
+        bottom: 170px;
+        left: -450px;
+        font-size: 12px;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 50px;
+    }
+    .anotherb{
+        left: 50px;
+        bottom: 346px;
+    }
+}
+@media screen and (max-width:870px){
+    .shapes{
+        bottom: 170px;
+        left: -500px;
+        font-size: 12px;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 50px;
+    }
+    .anotherb{
+        left: 50px;
+        bottom: 346px;
+    }
+}
+@media screen and (max-width:820px){
+    .shapes{
+        bottom: 170px;
+        left: -550px;
+        font-size: 12px;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 10px;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 346px;
+    }
+}
+@media screen and (max-width:770px){
+    .shapes{
+        bottom: 170px;
+        left: -600px;
+        font-size: 12px;
+    }
+    .rectangle-4{
+        bottom: 10px;
+        left: 10px;
+        font-size: smaller;
+        height: 350px;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 362px;
+    }
+}
+@media (min-width: 768px) and (max-width: 770px){
+    .rectangle-4{
+        bottom: 10px;
+        left: 10px;
+        font-size: smaller;
+        height: 340px;
+        width: 330px;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 352px;
+    }
+}
+@media (min-width: 760px) and (max-width: 768px){
+    .rectangle-4{
+        bottom: 3px;
+        left: 10px;
+        font-size: smaller;
+        height: 360px;
+        width: 330px;
+        padding-top: -30px;
+    }
+    .rectangle-5{
+        width: 30px;
+        height: 30px;
+    }
+    .btn-2{
+        font-size: 10px;
+        height: 20px;
+    }
+    .growth{
+        font-size: 14px;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 364px;
+        font-size: 17px;
+    }
+    .rectangle-6{
+        margin-top: 2px;
+    }
+    .way{
+        font-size: 16px;
+    }
+    .flying{
+        position: absolute;
+        bottom: 60px;
+        left: 10px;
+        font-size: 16px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 10px;
+        left: 15px;
+        font-size: 16px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 15px;
+        font-size: 16px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 60px;
+        left: 15px;
+        font-size: 16px; 
+        text-align: left; 
+        line-height: 1;
+        }
+    .content2{
+        text-align: left;
+    }
+    .Part1{
+        font-size: 35px;
+    }
+    .Europe{
+        font-size: 20px;
+    }
+    .Connect{
+        font-size: 20px;
+    }
+    .card{
+        margin-top: 30px;
+    }
+    .Body{
+        font-size: 30px;
+    }
+    .card-text{
+        font-size: 20px;
+    }
+    .rectangle{
+        width: 500px;
+        font-size: 8px;
+        margin-top: 20px;
+        height: 200px;
+    }
+    .help-tips{
+        font-size: 24px;
+    }
+}
+@media screen and (max-width:767px){
+    .Europe{
+        font-size: 14px;
+    }
+    .Connect{
+        font-size: 14px;
+    }
+    .rectangle{
+        margin-left: 40px;
+    }
+    .Body{
+        font-size: 25px;
+    }
+    .card-text{
+        font-size: 15px;
+    }
+    /* .Brag{
+        font-size: 10px;
+    }
+    .Brag2{
+        font-size: 10px;
+    }
+    .Brag3{
+        font-size: 10px;
+    } */
+    .Brag{
+        font-size: 15px;
+    }
+    .Brag2{
+        font-size: 15px;
+    }
+    .Brag3{
+        font-size: 15px;
+    }
+}
+
+
+
+@media (min-width: 720px) and (max-width: 760px){
+    .rectangle-4{
+        bottom: 3px;
+        left: 10px;
+        font-size: smaller;
+        height: 360px;
+        width: 330px;
+        padding-top: -30px;
+    }
+    .rectangle-5{
+        width: 30px;
+        height: 30px;
+    }
+    .btn-2{
+        font-size: 10px;
+        height: 20px;
+    }
+    .growth{
+        font-size: 14px;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 365px;
+        font-size: 17px;
+    }
+    .rectangle-6{
+        margin-top: 2px;
+    }
+    .way{
+        font-size: 16px;
+    }
+    .flying{
+        position: absolute;
+        bottom: 60px;
+        left: 10px;
+        font-size: 16px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 10px;
+        left: 15px;
+        font-size: 16px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 15px;
+        font-size: 16px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 60px;
+        left: 15px;
+        font-size: 16px; 
+        text-align: left; 
+        line-height: 1;
+        }
+    .content2{
+        text-align: left;
+    }
+    .Part1{
+        font-size: 35px;
+    }
+    .Europe{
+        font-size: 20px;
+    }
+    .Connect{
+        font-size: 20px;
+    }
+    .card{
+        margin-top: 30px;
+    }
+    .Body{
+        font-size: 30px;
+    }
+    .card-text{
+        font-size: 20px;
+    }
+    .rectangle{
+        width: 480px;
+        font-size: 8px;
+        margin-top: 20px;
+        height: 200px;
+    }
+    .help-tips{
+        font-size: 24px;
+    }
+    .Brag{
+        font-size: 14px;
+    }
+    .Brag2{
+        font-size: 14px;
+    }
+    .Brag3{
+        font-size: 14px;
+    }
+}
+@media (min-width: 620px) and (max-width: 720px){
+    .rectangle-4{
+        bottom: 3px;
+        left: 10px;
+        font-size: smaller;
+        height: 360px;
+        width: 300px;
+        padding-top: -30px;
+    }
+    .rectangle-5{
+        width: 30px;
+        height: 30px;
+    }
+    .btn-2{
+        font-size: 10px;
+        height: 20px;
+        width: 250px;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 365px;
+        font-size: 14px;
+        width: 315px;
+    }
+    .shapes{
+        bottom: 170px;
+        left: -700px;
+        font-size: 12px;
+    }
+    .fLIGHT{
+        width: 100px;
+    }
+    .flying{
+        position: absolute;
+        bottom: 60px;
+        left: 10px;
+        font-size: 16px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 10px;
+        left: 15px;
+        font-size: 16px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 15px;
+        font-size: 16px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 60px;
+        left: 15px;
+        font-size: 16px; 
+        text-align: left; 
+        line-height: 1;
+        }
+        .Part1{
+            font-size: 35px;
+        }
+        .Europe{
+            font-size: 20px;
+        }
+        .Connect{
+            font-size: 20px;
+        }
+        .card{
+            margin-top: 30px;
+        }
+        .Body{
+            font-size: 30px;
+        }
+        .card-text{
+            font-size: 20px;
+        }
+        .rectangle{
+            width: 500px;
+            font-size: 8px;
+            margin-top: 20px;
+            height: 200px;
+        }
+        .help-tips{
+            font-size: 24px;
+        }
+        .Brag{
+            font-size: 15px;
+        }
+        .Brag2{
+            font-size: 15px;
+        }
+        .Brag3{
+            font-size: 15px;
+        }
+        .head3{
+            font-size: 25px;
+        }
+        .head4{
+            font-size: 20px;
+        }
+}       
+@media (min-width: 575px) and (max-width: 620px){
+    .rectangle-4{
+        bottom: 5px;
+        left: 6px;
+        font-size: 6px;
+        height: 325px;
+        width: 280px;
+    }
+    .CARS{
+        width: 60px;
+    }
+    .btn-2{
+        font-size: 10px;
+        height: 20px;
+        width: 230px;
+    }
+    .rectangle-5{
+        width: 20px;
+        height: 20px;
+    }
+    .rectangle-6{
+        margin-top: -10px;
+    }
+    .rectangle-7{
+        margin-top: 3px;
+    }
+    .growth{
+        font-size: 13px;
+    }
+    .increment{
+        padding-left: 20px;
+    }
+    .number{
+        padding-left: 20px;
+    }
+    .decrement{
+        padding-left: 20px;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 331px;
+    }
+    .shapes{
+        bottom: 170px;
+        left: -750px;
+        font-size: 12px;
+    }
+    .flying{
+        position: absolute;
+        bottom: 60px;
+        left: 10px;
+        font-size: 16px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 10px;
+        left: 15px;
+        font-size: 15px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 15px;
+        font-size: 15px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 60px;
+        left: 15px;
+        font-size: 15px; 
+        text-align: left; 
+        line-height: 1;
+        }
+        .Part1{
+            font-size: 35px;
+        }
+        .Europe{
+            font-size: 20px;
+        }
+        .Connect{
+            font-size: 20px;
+        }
+        .card{
+            margin-top: 30px;
+        }
+        .Body{
+            font-size: 30px;
+        }
+        .card-text{
+            font-size: 20px;
+        }
+        .rectangle{
+            width: 450px;
+            font-size: 12px;
+            margin-top: 20px;
+            height: 200px;
+        }
+        .HOLIDAYS{
+            width: 100px;
+        }
+        .fLIGHT{
+            width: 90px;
+        }
+}
+@media (min-width: 525px) and (max-width: 575px){
+    .shapes{
+        display: none;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 6px;
+        font-size: 6px;
+        height: 320px;
+        width: 280px;
+    }
+    .CARS{
+        width: 50px;
+    }
+    .btn-2{
+        font-size: 10px;
+        height: 20px;
+        width: 230px;
+    }
+    .rectangle-5{
+        width: 10px;
+        height: 10px;
+    }
+    .rectangle-6{
+        margin-top: -10px;
+    }
+    .growth{
+        font-size: 12px;
+    }
+    .increment{
+        padding-left: 20px;
+    }
+    .number{
+        padding-left: 20px;
+    }
+    .decrement{
+        padding-left: 20px;
+    }
+    .anotherb{
+        left: 5px;
+        bottom: 320px;
+        font-size: 40px;
+    }
+    .flying{
+        position: absolute;
+        bottom: 80px;
+        left: 100px;
+        font-size: 30px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 15px;
+        left: 100px;
+        font-size: 30px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 100px;
+        font-size: 30px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 80px;
+        left: 100px;
+        font-size: 30px; 
+        text-align: left; 
+        line-height: 1;
+        }
+        .Part1{
+            font-size: 35px;
+        }
+        .Europe{
+            font-size: 25px;
+        }
+        .Connect{
+            font-size: 25px;
+        }
+        .card{
+            margin-top: 40px;
+        }
+        .Body{
+            font-size: 40px;
+        }
+        .card-text{
+            font-size: 30px;
+        }
+        .rectangle{
+            width: 450px;
+            font-size: 12px;
+            margin-top: 20px;
+            height: 200px;
+        }
+        .HOLIDAYS{
+            width: 100px;
+            font-size: 20px;
+        }
+        .fLIGHT{
+            width: 90px;
+            font-size: 20px;
+        }
+        .CARS{
+            font-size: 18px;
+            width: 70px;
+        }
+}
+@media (min-width: 500px) and (max-width: 525px){
+    .shapes{
+        display: none;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 357px;
+        font-size: 20px;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 8px;
+        font-size: 6px;
+        height: 350px;
+        width: 280px;
+    }
+    .fLIGHT{
+        width: 90px;
+    }
+    .HOLIDAYS{
+        width: 100px;
+    }
+    .CARS{
+        width: 80px;
+    }
+    .rectangle-5{
+        height: 15px;
+        width: 15px;
+    }
+    .growth{
+        font-size: 13px;
+    }
+    .btn-2{
+        width: 230px;
+    }
+    .Part1{
+        font-size: 35px;
+    }
+    .Europe{
+        font-size: 25px;
+    }
+    .Connect{
+        font-size: 25px;
+    }
+    .flying{
+        position: absolute;
+        bottom: 80px;
+        left: 70px;
+        font-size: 30px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 15px;
+        left: 70px;
+        font-size: 30px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 70px;
+        font-size: 30px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 80px;
+        left: 70px;
+        font-size: 30px; 
+        text-align: left; 
+        line-height: 1;
+        }
+        .card{
+            margin-top: 30px;
+        }
+        .Body{
+            font-size: 40px;
+        }
+        .card-text{
+            font-size: 30px;
+        }
+        .rectangle{
+            width: 420px;
+            font-size: 12px;
+            margin-top: 20px;
+            height: 200px;
+            margin-left: 20px;
+        }
+        .Brag{
+            font-size: 13px;
+        }
+        .Brag2{
+            font-size: 13px;
+        }
+        .Brag3{
+            font-size: 13px;
+        }
+}
+@media (min-width: 450px) and (max-width: 500px){
+    .shapes{
+        display: none;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 357px;
+        font-size: 16px;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 8px;
+        font-size: 6px;
+        height: 350px;
+        width: 280px;
+    }
+    .fLIGHT{
+        width: 90px;
+    }
+    .HOLIDAYS{
+        width: 100px;
+    }
+    .CARS{
+        width: 80px;
+    }
+    .rectangle-5{
+        height: 15px;
+        width: 15px;
+    }
+    .growth{
+        font-size: 13px;
+    }
+    .btn-2{
+        width: 240px;
+    }
+    .flying{
+        position: absolute;
+        bottom: 80px;
+        left: 60px;
+        font-size: 30px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 15px;
+        left: 60px;
+        font-size: 30px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 60px;
+        font-size: 30px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 80px;
+        left: 60px;
+        font-size: 30px; 
+        text-align: left; 
+        line-height: 1;
+    }
+    .Part1{
+        font-size: 35px;
+        }
+    .Europe{
+        font-size: 22px;
+    }
+    .Connect{
+         font-size: 22px;
+        }
+    .card{
+         margin-top: 40px;
+        }
+    .Body{
+        font-size: 40px;
+    }
+    .card-text{
+        font-size: 30px;
+    }
+    .rectangle{
+        width: 400px;
+        font-size: 12px;
+        margin-top: 20px;
+        height: 200px;
+        margin-left: 20px;
+    }
+    .Brag{
+        font-size: 12px;
+    }
+    .Brag2{
+        font-size: 12px;
+    }
+    .Brag3{
+        font-size: 12px;
+    }
+}
+@media (min-width: 399px) and (max-width: 450px){
+    .shapes{
+        display: none;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 357px;
+        font-size: 16px;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 8px;
+        font-size: 6px;
+        height: 350px;
+        width: 280px;
+    }
+    .flying{
+        position: absolute;
+        bottom: 80px;
+        left: 40px;
+        font-size: 30px;
+        line-height: 1;
+    }
+    .more{
+        position: absolute;
+        bottom: 15px;
+        left: 40px;
+        font-size: 30px;
+    }
+    .travel{
+        position: absolute;
+        bottom: 70px;
+        left: 40px;
+        font-size: 30px; 
+    }
+    .signup{
+        position: absolute;
+        bottom: 80px;
+        left: 40px;
+        font-size: 30px; 
+        text-align: left; 
+        line-height: 1;
+    }
+    .Part1{
+        font-size: 32px;
+        }
+    .Europe{
+        font-size: 20px;
+    }
+    .Connect{
+         font-size: 20px;
+        }
+        .card{
+            margin-top: 40px;
+           }
+       .Body{
+           font-size: 40px;
+       }
+       .card-text{
+           font-size: 30px;
+       }
+       .fLIGHT{
+        width: 90px;
+    }
+    .HOLIDAYS{
+        width: 100px;
+    }
+    .CARS{
+        width: 80px;
+    }
+    .rectangle-5{
+        height: 15px;
+        width: 15px;
+    }
+    .growth{
+        font-size: 13px;
+    }
+    .btn-2{
+        width: 240px;
+    }
+    .card{
+        margin-top: 35px;
+       }
+   .Body{
+       font-size: 35px;
+   }
+   .card-text{
+       font-size: 25px;
+   }
+   .rectangle{
+       width: 350px;
+       font-size: 12px;
+       margin-top: 20px;
+       height: 200px;
+       margin-left: 20px;
+   }
+}
+@media (min-width: 355px) and (max-width: 398px){
+    .shapes{
+        display: none;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 357px;
+        font-size: 16px;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 8px;
+        font-size: 6px;
+        height: 350px;
+        width: 280px;
+    }
+    .fLIGHT{
+        width: 90px;
+    }
+    .HOLIDAYS{
+        width: 100px;
+    }
+    .CARS{
+        width: 80px;
+    }
+    .rectangle-5{
+        height: 15px;
+        width: 15px;
+    }
+    .growth{
+        font-size: 13px;
+    }
+    .btn-2{
+        width: 240px;
+    }
+    .Part1{
+        font-size: 26px;
+        }
+    .Europe{
+        font-size: 16px;
+    }
+    .Connect{
+         font-size: 16px;
+        }
+        .flying{
+            position: absolute;
+            bottom: 80px;
+            left: 20px;
+            font-size: 25px;
+            line-height: 1;
+        }
+        .more{
+            position: absolute;
+            bottom: 15px;
+            left: 20px;
+            font-size: 25px;
+        }
+        .travel{
+            position: absolute;
+            bottom: 70px;
+            left: 20px;
+            font-size: 25px; 
+        }
+        .signup{
+            position: absolute;
+            bottom: 80px;
+            left: 20px;
+            font-size: 25px; 
+            text-align: left; 
+            line-height: 1;
+        }
+        .card{
+            margin-top: 30px;
+           }
+       .Body{
+           font-size: 30px;
+       }
+       .card-text{
+           font-size: 15px;
+       }
+       .rectangle{
+           width: 300px;
+           font-size: 12px;
+           margin-top: 20px;
+           height: 200px;
+           margin-left: 20px;
+       }
+       .Brag{
+        font-size: 10px;
+    }
+    .Brag2{
+        font-size: 10px;
+    }
+    .Brag3{
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 355px){
+    .shapes{
+        display: none;
+    }
+    .anotherb{
+        left: 10px;
+        bottom: 357px;
+        font-size: 16px;
+    }
+    .rectangle-4{
+        bottom: 5px;
+        left: 8px;
+        font-size: 6px;
+        height: 350px;
+        width: 280px;
+    }
+    .fLIGHT{
+        width: 90px;
+    }
+    .HOLIDAYS{
+        width: 100px;
+    }
+    .CARS{
+        width: 80px;
+    }
+    .rectangle-5{
+        height: 15px;
+        width: 15px;
+    }
+    .growth{
+        font-size: 13px;
+    }
+    .btn-2{
+        width: 240px;
+    }
+    .card{
+        margin-top: 30px;
+       }
+   .Body{
+       font-size: 30px;
+   }
+   .card-text{
+       font-size: 18px;
+   }
+   .rectangle{
+    width: 270px;
+    font-size: 12px;
+    margin-top: 20px;
+    height: 200px;
+    margin-left: 20px;
+}
+.Brag{
+ font-size: 8px;
+}
+.Brag2{
+ font-size: 8px;
+}
+.Brag3{
+ font-size: 8px;
+}
+}
+@media (min-width: 0px) and (max-width: 320px){
+    .shapes{
+        display: none;
+    }
+}
+

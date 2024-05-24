@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow: none;
+}
+.nav-item.fi :hover{
+    background-color: rgb(254,227,219);
+    color: rgb(238, 75, 43);
+    border-radius: 12px;
+}
+.nav-link{
+    color: white;
+}
+.Nav-text{
+    margin-top: -5px;
+    font-size: 13px;
+    color: white;
+    padding-left: 30px;
+}
+.navbar-brand{
+    padding-left: 30px;
+    font-size: 30px;
+}
+.imagesize{
+    height: 14px;
+    padding-bottom: 4px;
+}
+.Mid{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 48px;
+}
+.explored{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.display{
+    margin-top: 70px;
+}
+.testimonials{
+    margin-top: 150px;
+    height: 376px;
+    position: relative;
+}
+.Experiences{
+    bottom: 70px;
+    position: absolute;
+}
+.Customers{
+    bottom: 70px;
+    position: absolute;
+}
+.Destinations{
+    bottom: 70px;
+    position: absolute;
+}
+.Satisfaction{
+    bottom: 70px;
+    position: absolute;
+}
+.Trending{
+    margin-top: 70px;
+    font-size: 48px;
+}
+.small-content{
+    font-size: 20px;
+}
+.img-g{
+    width: 100%;
+    height: 376px;
+}
+.discount{
+    margin-top: 60px;
+}
+.title-text{
+    font-size: 20px;
+}
+.card-text{
+    font-size: 22px;
+}
+.Friendly{
+    margin-top: 100px;
+    font-size: 48px;
+}
+.together{
+    font-size: 20px;
+}
+.social-media{
+    color: rgb(238, 75, 43);
+    font-size: 46px;
+}
+.footer1{
+    background: #c0d8e9;
+    margin-top: 150px;
+    padding-bottom: 40px;
+}
+.connect{
+    font-size: 26px;
+    color: #3D3939;
+}
+.head3{
+    font-size: 26px;
+    color: #3D3939;
+}
+.head4{
+    margin-top: 20px;
+    font-size: 26px;
+    color: #3D3939;
+}
+.head4 li{
+    list-style: none;
+}
+.terms{
+    font-size: 26px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.price, .per-person {
+    display: inline-block;
+}
+
+.per-person {
+    margin-left: 5px; 
+}
+.slash{
+    font-size: 20px;
+}
+.arrow-wrapper{
+    margin-top: 40px;
+    align-items: center;
+    font-size: 40px;
+    display: flex;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    align-items: center;
+}
+.left-arrow, .right-arrow {
+    margin: 0 10px;
+}
+.left-arrow{
+    color: black;
+}
+.right-arrow{
+    color: rgb(238, 75, 43);
+}
+.fa-info-circle{
+    margin-left: 170px;
+}
+.fa-star{
+    margin-left: 100px;
+    color: yellow;
+}
+.custom-star .fa-star{
+    margin-left: 10px;
+}
+.ready-star .fa-star{
+    margin-left: 70px;
+}
+.wonder-star .fa-star{
+    margin-left: 68px;
+}
+.ancient-star .fa-star{ 
+    margin-left: 74px;
+}
+.hot-star .fa-star{
+    margin-left: 65px;
+}
+.Info1 .fa-info-circle{
+    margin-left: 150px;
+}
+
+
