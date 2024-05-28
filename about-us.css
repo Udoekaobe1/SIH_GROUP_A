@@ -138,7 +138,7 @@ nav, #booking, .book-now {
     margin-bottom: 30px;
     padding-bottom: 40px;
 }
-.social-media{
+.social-media.col{
     color: rgb(238, 75, 43);
-    font-size: 46px;
+    font-size: 20px;
 }

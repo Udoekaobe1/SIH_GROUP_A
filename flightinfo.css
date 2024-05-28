@@ -1,7 +1,6 @@
 *{
     padding: 0;
     margin: 0;
-    overflow: none;
 }
 .nav-item.fi :hover{
     background-color: rgb(254,227,219);
@@ -35,11 +34,8 @@
     margin-top: 20px;
     font-size: 20px;
 }
-.display{
-    margin-top: 70px;
-}
 .testimonials{
-    margin-top: 150px;
+    margin-top: 100px;
     height: 376px;
     position: relative;
 }
@@ -80,7 +76,7 @@
     font-size: 22px;
 }
 .Friendly{
-    margin-top: 100px;
+    margin-top: 120px;
     font-size: 48px;
 }
 .together{
@@ -170,5 +166,84 @@
 .Info1 .fa-info-circle{
     margin-left: 150px;
 }
+#img1{
+    margin-top: 50px;
+}
+#img3{
+    margin-top: 50px;
+}
+.cont {
+    margin-top: 50px;
+    overflow: hidden;
+  }
 
+/* responsiveness */
+@media and (max-width:1200px){
+    
+}
+
+/* @media screen and (min-width: 320px) and (max-width:375px){
+    .head3{
+        margin-top: 40px;
+        font-size: 25px;
+    }
+    .head4{
+        font-size: 20px;
+    }
+    .social-media{
+        font-size: 30px;
+    }
+    .fa-envelope{
+        margin-left: 5px;
+    }
+    .fa-facebook{
+        margin-left: -15px;
+    }
+    .fa-youtube{
+        margin-left: -20px;
+    }
+    .fa-instagram{
+        margin-left: -25px;
+    }
+    .left-arrow{
+        font-size: 30px;
+    }
+    .right-arrow{
+        font-size: 30px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 150px;
+    }
+    .fa-info-circle{
+        margin-left: 160px;
+    }
+    .ready-star .fa-star{
+        margin-left: 103px;
+    }
+    .custom-star .fa-star{
+        margin-left: 50px;
+    }
+    .fa-star{
+        margin-left: 130px;
+    }
+    .card{
+        margin-top: 25px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 110px;
+    }
+    .hot-star .fa-star{
+        margin-left: 105px; 
+    }
+    .wonder-star .fa-star{
+        margin-left: 105px;
+    }
+    .Friendly{
+        font-size: 30px;
+        margin-top: 160px;
+    }
+    .Trending{
+        font-size: 30px; 
+    }
+} */
 

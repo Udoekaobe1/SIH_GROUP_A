@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+   /* box-sizing: border-box;  */
+}
+
+body{
+  overflow-x: hidden; 
+}
+
+/*Navbar */
+.imagesize{
+  height: 20px;
+  padding-bottom: 4px;
+}
+
+.navbar{
+  width: 100%;
+  /* font-size: 15px; */
+  padding-right: 60px;
+ background-color:  rgb(238, 75, 43);
+}
+
+.nav-item :hover {
+  background-color: rgb(254, 227, 219);
+  color: rgb(238, 75, 43);
+  border-radius: 12px;
+}
+.nav-link {
+  color: white;
+  margin-right: -20px;
+}
+.Nav-text {
+  margin-top: -5px;
+  font-size: 13px;
+  color: white;
+  padding-left: 30px;
+}
+.navbar-brand {
+  padding-left: 30px;
+  font-size: 30px;
+} 
+
+/*Section 2 background pics */
+#section2 {
+  background-image: url("/img1/Rectangle\ 4.jpg");
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+/* section 3 */
+.threetext{
+    margin-left: 120px;
+    /* margin-top: 50px; */
+}
+#a {
+  color: #f84610;
+}
+
+.p1{
+  margin-top: 17px;
+font-size: 20px;
+line-height: 37.82px;
+}
+
+.h3{
+font-size: 30px;
+line-height: 35px;
+}
+
+.p{
+font-size: 20px;
+line-height: 30px;
+}
+
+
+/* image div blog */
+
+.col {
+  margin-top: 100px;
+} 
+
+.card-title{
+  padding-top: 23px;
+  padding-left: 30px;
+}
+
+.font-weight-normal{
+  padding-left: 30px;
+}
+
+ .card-body{
+  border-left: 1px solid red; 
+  border-right: 1px solid red; 
+  border-bottom: 1px solid red; 
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+} 
+
+
+/* footer */
+
+footer {
+  position: relative;
+  background: #c0d8e9;
+  padding-bottom: 2%;
+  width: 100%;
+}
+
+/* to remove bullet point in/on the list*/
+
+#footer-container {
+  list-style: none;
+  margin-top: 33px;
+}
+
+#icons {
+  margin-left: 9%;
+}
+
+.c {
+  width: 100%;
+}
+
+.fa {
+  color: #f84610;
+  size: 20%;
+}
+
+#terms {
+  padding-left: 9%;
+}
+
+@media only screen and (max-width: 320px) {
+  *{
+    overflow-x: hidden; 
+  }
+}
