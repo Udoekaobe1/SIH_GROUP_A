@@ -922,7 +922,7 @@ button {
         left: 10px;
         font-size: smaller;
         height: 360px;
-        width: 330px;
+        width: 320px;
         padding-top: -30px;
     }
     .rectangle-5{
@@ -1019,8 +1019,8 @@ button {
         bottom: 3px;
         left: 10px;
         font-size: smaller;
-        height: 360px;
-        width: 300px;
+        height: 365px;
+        width: 320px;
         padding-top: -30px;
     }
     .rectangle-5{
@@ -1029,12 +1029,12 @@ button {
     }
     .btn-2{
         font-size: 10px;
-        height: 20px;
+        height: 25px;
         width: 250px;
     }
     .anotherb{
         left: 10px;
-        bottom: 365px;
+        bottom: 370px;
         font-size: 14px;
         width: 315px;
     }
@@ -1121,11 +1121,12 @@ button {
         bottom: 5px;
         left: 6px;
         font-size: 6px;
-        height: 325px;
-        width: 280px;
+        height: 330px;
+        width: 295px;
     }
     .CARS{
-        width: 60px;
+        width: 70px;
+        font-size: 14px;
     }
     .btn-2{
         font-size: 10px;
@@ -1143,7 +1144,7 @@ button {
         margin-top: 3px;
     }
     .growth{
-        font-size: 13px;
+        font-size: 14px;
     }
     .increment{
         padding-left: 20px;
@@ -1156,7 +1157,7 @@ button {
     }
     .anotherb{
         left: 10px;
-        bottom: 331px;
+        bottom: 333px;
     }
     .shapes{
         bottom: 170px;
@@ -1215,10 +1216,12 @@ button {
             height: 200px;
         }
         .HOLIDAYS{
-            width: 100px;
+            width: 110px;
+            font-size: 14px;
         }
         .fLIGHT{
             width: 90px;
+            font-size: 14px;
         }
 }
 @media (min-width: 525px) and (max-width: 575px){
@@ -1229,15 +1232,15 @@ button {
         bottom: 5px;
         left: 6px;
         font-size: 6px;
-        height: 320px;
-        width: 280px;
+        height: 325px;
+        width: 285px;
     }
     .CARS{
         width: 50px;
     }
     .btn-2{
-        font-size: 10px;
-        height: 20px;
+        font-size: 12px;
+        height: 25px;
         width: 230px;
     }
     .rectangle-5{
@@ -1261,7 +1264,7 @@ button {
     }
     .anotherb{
         left: 5px;
-        bottom: 320px;
+        bottom: 325px;
         font-size: 40px;
     }
     .flying{
