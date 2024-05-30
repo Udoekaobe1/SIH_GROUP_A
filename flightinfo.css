@@ -178,9 +178,12 @@
   }
 
 /* responsiveness */
-@media and (max-width:1200px){
-    
+@media screen and (max-width:1199px){
+    .Info1 .fa-info-circle{
+        margin-left: 230px;
+    }
 }
+
 
 /* @media screen and (min-width: 320px) and (max-width:375px){
     .head3{

@@ -583,6 +583,13 @@ button {
         font-size: 12px;
         }
 }
+@media screen and (max-width:991px){
+    .booknow{
+        display: flex;
+        flex-direction: row-reverse;
+        margin-top: -55px;
+    }
+}
 @media screen and (max-width:990px){
     .flying{
         position: absolute;
@@ -891,8 +898,22 @@ button {
     .Brag3{
         font-size: 15px;
     }
-}
+    .head3{
+        margin-top: 30px;
+    }
+    .head4{
+        margin-top: -20px;
+    }
 
+}
+@media screen and (min-width:767px){
+    .head3{
+        margin-top: 30px;
+    }
+    .head4{
+        margin-top: -20px;
+    }
+}
 
 
 @media (min-width: 720px) and (max-width: 760px){
@@ -1760,6 +1781,13 @@ button {
 @media (min-width: 0px) and (max-width: 320px){
     .shapes{
         display: none;
+    }
+    .booknow{
+        margin-top: -60px;
+    }
+    .Text-2{
+        font-size: 12px;
+        padding-top: 5px;
     }
 }
 
