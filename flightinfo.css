@@ -178,75 +178,523 @@
   }
 
 /* responsiveness */
-@media screen and (max-width:1199px){
-    .Info1 .fa-info-circle{
+@media screen and (min-width:1399px){
+    .fa-info-circle{
         margin-left: 230px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 220px;
+    }
+    .fa-star{
+        margin-left: 160px;
+        color: yellow;
+    }
+    .custom-star .fa-star{
+        margin-left: 70px;
+    }
+    .ready-star .fa-star{
+        margin-left: 130px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 127px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 134px;
+    }
+    .hot-star .fa-star{
+        margin-left: 128px;
     }
 }
 
-
-/* @media screen and (min-width: 320px) and (max-width:375px){
-    .head3{
-        margin-top: 40px;
-        font-size: 25px;
+@media screen and (max-width:1200px){
+    .fa-info-circle{
+        margin-left: 170px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 160px;
+    }
+    .fa-star{
+        margin-left: 103px;
+        color: yellow;
+    }
+    .custom-star .fa-star{
+        margin-left: 10px;
+    }
+    .ready-star .fa-star{
+        margin-left: 70px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 65px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 74px;
+    }
+    .hot-star .fa-star{
+        margin-left: 68px;
+    }
+}
+@media screen and (max-width:1198px){
+    .fa-info-circle{
+        margin-left: 110px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 100px;
+    }
+    .fa-star{
+        margin-left: 85px;
+    }
+    .card-title{
+        font-size: 22px;
+    }
+    .custom-star .fa-star{
+        margin-left: 10px;
+    }
+    .ready-star .fa-star{
+        margin-left: 65px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 60px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 65px;
+    }
+    .hot-star .fa-star{
+        margin-left: 60px;
+    }
+    .Experiences{
+        width: 200px;
+        margin-bottom: 30px;
+    }
+    .Customers{
+        width: 200px;
+        margin-bottom: 30px;
+    }
+    .Destinations{
+        width: 200px;
+        margin-bottom: 30px;
+    }
+    .Satisfaction{
+        width: 200px;
+        margin-bottom: 30px;
     }
     .head4{
+        font-size: 24px;
+    }
+    
+}
+@media screen and (max-width:1054px){
+    .nav-link{
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 991px) {
+    .Experiences{
+        width: 160px;
+        margin-bottom: 75px;
+    }
+    .Customers{
+        width: 160px;
+        margin-bottom: 75px;
+    }
+    .Destinations{
+        width: 160px;
+        margin-bottom: 75px;
+    }
+    .Satisfaction{
+        width: 160px;
+        margin-bottom: 75px;
+    }
+    .img-g{
+        height: 300px;
+    }
+    .card-title{
+        font-size: 100px;
+    }
+    .title-text{
+        font-size: 15px;
+    }
+    .fa-info-circle{
+        margin-left: 34px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 22px;
+        font-size: 20px;
+    }
+    .card-title{
+        font-size: 16px;
+    }
+    .title-text{
+        font-size: 16px;
+    }
+    .custom-star .fa-star{
+        margin-left: -1px;
+    }
+    .ready-star .fa-star{
+        margin-left: 38px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 35px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 40px;
+    }
+    .hot-star .fa-star{
+        margin-left: 36px;
+    }
+    .fa-star{
+        margin-left: 55px;
+    }
+    .head3{
+        font-size: 18px;
+    }
+    .head4{
+        font-size: 16px;
+    }
+    .terms{
         font-size: 20px;
     }
     .social-media{
-        font-size: 30px;
-    }
-    .fa-envelope{
-        margin-left: 5px;
+        font-size: 24px;
     }
     .fa-facebook{
-        margin-left: -15px;
+        margin-left: 2px;
+    }
+    .fa-instagram{
+        margin-left: -20px;
     }
     .fa-youtube{
         margin-left: -20px;
     }
-    .fa-instagram{
-        margin-left: -25px;
+    #img1{
+        margin-top: 30px;
     }
-    .left-arrow{
+    #img3{
+        margin-top: 30px;
+    }
+    .arrow-wrapper{
+        margin-top: 10px;
         font-size: 30px;
     }
-    .right-arrow{
-        font-size: 30px;
+    .footer1{
+        margin-top: 120px;
     }
-    .Info1 .fa-info-circle{
-        margin-left: 150px;
+    .connect{
+        font-size: 28px;
     }
-    .fa-info-circle{
-        margin-left: 160px;
+}
+@media (max-width: 767px) {
+    .explored{
+        font-size: 17px;
     }
-    .ready-star .fa-star{
-        margin-left: 103px;
-    }
-    .custom-star .fa-star{
-        margin-left: 50px;
-    }
-    .fa-star{
-        margin-left: 130px;
-    }
-    .card{
+    #img1{
         margin-top: 25px;
     }
-    .ancient-star .fa-star{ 
-        margin-left: 110px;
+    #img3{
+        margin-top: 25px;
     }
-    .hot-star .fa-star{
-        margin-left: 105px; 
+    .Experiences{
+        width: 120px;
+        margin-bottom: 150px;
+    }
+    .Customers{
+        width: 120px;
+        margin-bottom: 150px;
+    }
+    .Destinations{
+        width: 120px;
+        margin-bottom: 150px;
+    }
+    .Satisfaction{
+        width: 120px;
+        margin-bottom: 150px;
+    }
+    .img-g{
+        height: 200px;
+    }
+    .Trending{
+        margin-top: -100px;
+        font-size: 40px;
+    }
+    .small-content{
+        font-size: 18px;
+    }
+    .card{
+        margin-top: 30px;
+    }
+    .card-title{
+        font-size: 30px;
+    }
+    .title-text{
+        font-size: 25px;
+    }
+    .price{
+        font-size: 25px;
+    }
+    .per-person{
+        font-size: 25px;
+    }
+    .slash{
+        font-size: 25px;
+    }
+    .Info1 .fa-info-circle{
+        font-size: 30px;
+        margin-left: 280px;
     }
     .wonder-star .fa-star{
-        margin-left: 105px;
+        margin-left: 200px;
+    }
+    .hot-star .fa-star{
+        margin-left: 200px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 205px;
+    }
+    .arrow-wrapper{
+        margin-top: 10px;
+        font-size: 35px;
+    }
+    .Friendly{
+        font-size: 45px;
+    }
+    .together{
+        font-size: 24px;
+    }
+    .fa.fa-info-circle{
+        font-size: 30px;
+    }
+    .fa-info-circle{
+        margin-left: 290px;
+    }
+    .fa-star{
+        margin-left: 235px;
+    }
+    .custom-star .fa-star{
+        margin-left: 130px;
+    }
+    .ready-star .fa-star{
+        margin-left: 200px;
+    }
+    .head3{
+        margin-top: 30px;
+    }
+    .head4{
+        margin-top: -20px;
+    }
+}
+@media (max-width: 575px) {
+    .explored{
+        font-size: 14px;
+    }
+    .Mid{
+        font-size: 36px;
+    }
+    .Experiences{
+        width: 90px;
+        margin-bottom: 190px;
+    }
+    .Customers{
+        width: 90px;
+        margin-bottom: 190px;
+    }
+    .Destinations{
+        width: 90px;
+        margin-bottom: 190px;
+    }
+    .Satisfaction{
+        width: 90px;
+        margin-bottom: 190px;
+    }
+    .img-g{
+        height: 150px;
+    }
+    .Trending{
+        margin-top: -180px;
+        font-size: 30px;
+    }
+    .small-content{
+        font-size: 14px;
+        margin-bottom: -50px;
+    }
+    .Info1 .fa-info-circle{
+        font-size: 30px;
+        margin-left: 280px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 70px;
+    }
+    .hot-star .fa-star{
+        margin-left: 90px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 95px;
+    }
+    .arrow-wrapper{
+        margin-top: 10px;
+        font-size: 35px;
+    }
+    .Friendly{
+        font-size: 45px;
+    }
+    .together{
+        font-size: 24px;
+    }
+    .fa-info-circle{
+        margin-left: 180px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 170px;
+    }
+    .fa-star{
+        margin-left: 120px;
+    }
+    .custom-star .fa-star{
+        margin-left: 20px;
+    }
+    .ready-star .fa-star{
+        margin-left: 90px;
+    }
+}
+@media (max-width: 574px) {
+    .wonder-star .fa-star{
+        margin-left: 210px;
+    }
+    .hot-star .fa-star{
+        margin-left: 218px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 222px;
+    }
+    .arrow-wrapper{
+        margin-top: 10px;
+        font-size: 35px;
     }
     .Friendly{
         font-size: 30px;
-        margin-top: 160px;
     }
-    .Trending{
-        font-size: 30px; 
+    .together{
+        font-size: 20px;
     }
-} */
+    .fa-info-circle{
+        margin-left: 310px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 300px;
+    }
+    .fa-star{
+        margin-left: 250px;
+    }
+    .custom-star .fa-star{
+        margin-left: 150px;
+    }
+    .ready-star .fa-star{
+        margin-left: 220px;
+    }
+}
+@media (max-width: 548px) {
+    .Info1 .fa-info-circle{
+        margin-left: 280px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 200px;
+    }
+    .hot-star .fa-star{
+        margin-left: 200px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 200px;
+    }
 
+    .fa-info-circle{
+        margin-left: 280px;
+    }
+    .fa-star{
+        margin-left: 230px;
+    }
+    .custom-star .fa-star{
+        margin-left: 120px;
+    }
+    .ready-star .fa-star{
+        margin-left: 190px;
+    }
+}
+@media (max-width: 530px) {
+    .fa-info-circle{
+        margin-left: 280px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 270px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 190px;
+    }
+    .hot-star .fa-star{
+        margin-left: 190px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 190px;
+    }
+}
+@media (max-width: 523px) {
+    .fa-info-circle{
+        margin-left: 280px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 270px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 190px;
+    }
+    .hot-star .fa-star{
+        margin-left: 190px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 190px;
+    }
+    .fa-star{
+        margin-left: 220px;
+    }
+}
+@media (max-width: 520px) {
+    .fa-info-circle{
+        margin-left: 280px;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 260px;
+    }
+    .wonder-star .fa-star{
+        margin-left: 180px;
+    }
+    .hot-star .fa-star{
+        margin-left: 180px;
+    }
+    .ancient-star .fa-star{ 
+        margin-left: 180px;
+    }
+    .together{
+        margin-bottom: -60px;
+    }
+    .fa-star{
+        margin-left: 220px;
+    }
+    .custom-star .fa-star{
+        margin-left: 120px;
+    }
+    .ready-star .fa-star{
+        margin-left: 190px;
+    }
+}
+@media (max-width: 516px) {
+    .fa-info-circle{
+        margin-left: 280px;
+        position: static;
+    }
+    .Info1 .fa-info-circle{
+        margin-left: 260px;
+        position: static;
+    }
+    .card-title{
+        font-size: 30px;
+    }
+    
+}
